@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T20:23:25.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="tAg4a4L78vddrfVznlA6" version="17.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-11T20:25:35.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="dawxzN2EknHBQvCW3CoQ" version="17.4.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Gestión de usuarios">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -735,7 +735,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oxESTYQapv_qjGEYhOm4-18" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;Los tipos de cuenta son:Puclicitaria, Operativa y Reserva&amp;#34;,&amp;#34;m&amp;#34;:[]}&quot;&gt;Los tipos de cuenta son:Puclicitaria, Operativa y Reserva&lt;/span&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bjeiN9te-WaE9cRbDsjP-1" value="Catálogos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="10" width="120" height="40" as="geometry" />
